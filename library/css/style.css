@@ -266,12 +266,6 @@ h5, .h5 {
   letter-spacing: 2px; }
 
 /*********************
-PLUGIN OVERRIDE STYLES
-*********************/
-
-.flexslider .flexcaption { position: relative; }
-
-/*********************
 HEADER STYLES
 *********************/
 
@@ -775,12 +769,6 @@ in general anyone not viewing on a mobile device. Here's where
 you can add resource intensive styles.
 **************************************************************************/
 @media only screen and (min-width: 768px) {
-
-  /*********************
-  PLUGIN OVERRIDE STYLES
-  *********************/
-
-  .flexslider .flexcaption { position: absolute; }
 
   /*********************
   GRID STYLES
